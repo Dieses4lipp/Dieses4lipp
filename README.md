@@ -6,7 +6,7 @@ I'm a passionate developer with a keen interest in creating innovative projects 
 
 ### Discord TCG Bot
 - **Description:** Developed a Discord Trading Card Game (TCG) bot that lets users play, trade, and manage virtual cards directly from their Discord server.
-- **Technologies:** C#, Discord API, SQLite
+- **Technologies:** C#, Discord API
 - **Highlights:**  
   - Automated card collection and trading system  
   - Engaging commands and interactive gameplay  
