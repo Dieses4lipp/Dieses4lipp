@@ -15,7 +15,7 @@ I'm a passionate developer with a keen interest in creating innovative projects 
 ### Raspberry Pi Voice Assistant
 - **Currently Working On:**  
   I'm currently experimenting with Raspberry Pi to create an offline voice assistant. The project leverages speech recognition and a custom backend to execute voice commands, and it’s a step towards integrating AI with physical hardware.
-- **Technologies:** C# (ASP.NET Core Web API), Python (Vosk, Flask), Raspberry Pi GPIO
+- **Technologies:** C# (ASP.NET Core Web API, Vosk), Raspberry Pi GPIO
 - **Highlights:**  
   - Offline speech recognition with Vosk  
   - Integration of hardware controls with Raspberry Pi  
@@ -24,7 +24,7 @@ I'm a passionate developer with a keen interest in creating innovative projects 
 ## 💡 What I'm Learning
 - Advanced AI & Machine Learning Techniques
 - Hardware interfacing with Raspberry Pi
-- Cross-platform development using C# and Python
+- Cross-platform development using C#
 
 ## 📫 How to Reach Me
 - **Email:** [philipp4444@outlook.de](mailto:philipp4444@outlook.de)
