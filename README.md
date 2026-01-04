@@ -3,9 +3,9 @@
 I'm a passionate developer with a keen interest in creating innovative projects that combine gaming, AI, and hardware integration. I love exploring new technologies and sharing my work with the community.
 
 ## 💡 What I'm Learning
-- Advanced AI & Machine Learning Techniques
 - Hardware interfacing with Raspberry Pi
-- Cross-platform development using C#
+- Rest Api development using C#
+- Frontend development with Typescript
 
 ## 📫 How to Reach Me
 - **Email:** [philipp4444@outlook.de](mailto:philipp4444@outlook.de)
