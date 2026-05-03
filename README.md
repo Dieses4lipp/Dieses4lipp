@@ -6,6 +6,7 @@ I'm a passionate developer with a keen interest in creating innovative projects 
 - Hardware interfacing with Raspberry Pi
 - Rest Api development using C#
 - Frontend development with Typescript
+- Java development with ECS
 
 ## 📫 How to Reach Me
 - **Email:** [philipp4444@outlook.de](mailto:philipp4444@outlook.de)
@@ -14,4 +15,3 @@ I'm a passionate developer with a keen interest in creating innovative projects 
 
 Feel free to explore my repositories and get in touch if you want to collaborate on exciting projects or just say hi!
 
-<!-- Badges, stats, or additional widgets can go here -->
