@@ -7,6 +7,7 @@ I'm a passionate developer with a keen interest in creating innovative projects 
 - Rest Api development using C#
 - Frontend development with Typescript
 - Java development with ECS
+- Ai topics
 
 ## 📫 How to Reach Me
 - **Email:** [philipp4444@outlook.de](mailto:philipp4444@outlook.de)
